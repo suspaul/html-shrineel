@@ -1,0 +1,101 @@
+.gradient-background{
+  background: linear-gradient(300deg,  #A0DEFF, #FEC7B4, #41C9E2);
+  background-size: 180% 180%;
+  animation: gradient-animation 5s ease infinite;
+}
+.invitation{
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+body{
+  font-family: "Merienda", serif;
+  color:#180A0A;
+  margin:0; border: 0;
+  font-weight:bold;
+  font-size: 3rem;
+  font-size: 100%
+}
+
+h1{
+  font-family:"Sacramento",serif;
+  font-weight: bold;
+  color: #FF204E;
+  font-size: 4rem;
+  padding: 20px 10px;
+
+}
+.ballon{
+  width:5%;
+  height: 5%;
+
+}
+h3{
+  color: #F7418F
+}
+h2{
+  font-family: "Merienda";
+  margin: 50px auto 50px;
+  color:#A0153E;
+  font-size: 2.4rem;
+}
+.flowers{
+  width:5%;
+  height:5%;
+
+}
+.img{
+  height: 20%;
+  width: 30%;
+}
+.neel{
+  height: 10%;
+  width: 20%;
+margin: 50px;
+transform: rotate(-10deg);
+}
+.shri{
+  height: 10%;
+  width: 20%;
+  margin: 50px;
+  transform: rotate(10deg);
+}
+.kendua{
+  text-decoration: none;
+  color:#1D24CA;
+}
+.time{
+  margin: 30px;
+}
+.tt{
+  width:10%;
+  height:5%;
+  margin:20px;
+}
+.venue{
+  margin: 30px 30px;
+}
+.bln{
+  width:10%;
+  height:5%;
+  margin:30px;
+}
+.contact{
+margin:40px auto 0;
+padding: 30px 0 50px;
+}
+.thank
+{width:10%;
+height:5%;
+margin:20px;
+
+}
+a:hover{
+  color: #810955;
+}
+
+.thank{
+  width: 15%;
+  height: 15%
+}
